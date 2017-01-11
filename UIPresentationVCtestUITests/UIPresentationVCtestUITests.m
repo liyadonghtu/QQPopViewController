@@ -2,8 +2,8 @@
 //  UIPresentationVCtestUITests.m
 //  UIPresentationVCtestUITests
 //
-//  Created by Aotu on 16/4/11.
-//  Copyright © 2016年 Aotu. All rights reserved.
+//  Created by liyadong on 16/4/11.
+//  Copyright © 2016年 liyadong. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
